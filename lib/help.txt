@@ -1,1 +1,1 @@
-This API enables cross-origin requests from get.docusign.com.
+This API enables cross-origin requests from get.docusign.com or marketing.docusignhq.com.
